@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+.env
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+dist/
+build/
+coverage/
+.DS_Store
+*.log
+*.env
+.env.*
+# Optional: OS-specific
+Thumbs.db
+*.swp
+# Optional: VSCode
+.vscode/
+# Optional: production
+*.tgz
+# Optional: test coverage
+coverage/
+# Optional: next.js
+.next/
+# Optional: parcel-bundler
+.cache/
+# Optional: SvelteKit
+.svelte-kit/
+# Optional: Storybook
+out/
+.storybook/
+# Optional: Mac
+.DS_Store
+# Optional: Windows
+Thumbs.db
